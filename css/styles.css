@@ -1,0 +1,120 @@
+body {
+  background-color: #184D47;
+  color: white;
+  margin: 0; /*all 4 sides are set to 0*/
+  text-align: center;
+  font-family: monospace, serif;
+}
+
+h1 {
+   color: white;
+   margin-top: 0;
+   font-family: "Sacramento", sans-serif;
+   /* "Sacramento" */
+   /* margin: 0 auto 0 auto;
+   text-align: center; */
+}
+
+h2 {
+  color: #FAD586;
+  font-family: monospace, sans-serif;
+}
+
+
+h3 {
+  color: #FBF46D;
+  font-family: monospace, sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 20%
+}
+
+.circular {
+  border-radius: 50%;
+}
+
+.container {
+  position: relative;
+}
+
+.top-container {
+  background-color: #184D47;
+  position: relative;
+  padding-top: 110px;
+  /* padding: 20px; */
+  /* width: 200px;
+  height: 200px;
+  /* padding: 20px; */
+  /*margin: 20px;*/
+  /* border: solid 10px; */
+  /* display: inline-block;
+  position: relative;
+  left: 520px; */
+  /* positon: fixed; */
+}
+
+.middle-container {
+  /* background-color: #96BB7C; */
+  background-color: #184D47;
+  /* margin-left: 260px; */
+  /* display: inline-block; */
+  /* position: absolute;
+  left: 260px; */
+}
+
+.bottom-container {
+  /* background-color: #96BB7C; */
+  background-color: #184D47;
+  /* margin-left: 500px; */
+  /* display: inline-block;
+  position: relative;;
+  right: 480px; */
+  /* position: absolute;
+  top: 500px;
+  left: 500px; */
+}
+
+.website {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.circular-img {
+  border-radius: 50%;
+}
+
+.skills {
+
+}
+
+.skill-row {
+
+}
+
+.contact-me {
+
+}
+
+.btn {
+
+}
+
+.giphy-embed {
+  border-radius: 60%;
+}
